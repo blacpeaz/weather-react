@@ -7,7 +7,11 @@ function App() {
       <h1>Weather App</h1>
       <SearchForm />
       <p>
-        <a href="https://github.com/blacpeaz/weather-react" target="_blank">
+        <a
+          href="https://github.com/blacpeaz/weather-react"
+          target="_blank"
+          rel="noreferrer"
+        >
           Open Source Code{" "}
         </a>{" "}
         by Lalao
